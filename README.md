@@ -4,6 +4,6 @@ Click [here](https://lostmonkr.github.io/weather-dashboard/. ) to check the weat
 
 
 This is how it should be looks like.
-![This](06-server-side-apis-homework-demo.png/.) 
+![This](./06-server-side-apis-homework-demo.png) 
 
 
